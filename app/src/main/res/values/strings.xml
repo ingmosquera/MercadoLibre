@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mercado Libre</string>
+    <string name="boton_buscar">Buscar</string>
+    <string name="boton_cancelar">Cancelar</string>
+    <string name="nombre_producto">Nombre producto</string>
+    <string name="titulo_buscador">Buscador de productos</string>
+    <string name="titulo_detCaracteristica">Caracteristica del producto</string>
+</resources>

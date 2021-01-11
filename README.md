@@ -10,8 +10,8 @@ Paquete repository Contiene Interface ProductRepository la cual declara los mét
 Paquete service: Contiene la clase api server que se encarga de generar la conexcion necesaria para la api (se utliliza retrofit) 
                  Contiene la interface ProducService la cual provee los metodos que seran utilizados para llamar a la api.
 Paquete util : Contiene una clase que ayuda en crear dinamicamente una tabla la cual es utilizada para mostrar el detalle del producto.
-Paquete View: Contiene las 
 Paquete ViewModel: Administra los datos relacionados con la vista y maneja la comunicación con el resto de la aplicacion.
+Paquete View: Contiene la parte logica de las actividades.
 
 
 
